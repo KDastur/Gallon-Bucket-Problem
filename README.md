@@ -5,6 +5,7 @@ I set my code up to use three different functions in order to solve this problem
 
 The output shows each step as well as tracking how much water each bucket has at each step.
 
+### Output
 ```
 Fill bucket 5 fully
 Bucket 3: 0    Bucket 5: 5
